@@ -86,7 +86,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| AskCory |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 
 ---
 
